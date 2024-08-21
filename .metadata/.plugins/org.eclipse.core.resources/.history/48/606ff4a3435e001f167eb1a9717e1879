@@ -1,0 +1,10 @@
+package com.nttdata;
+
+public class PruebaRiesgosTelefonicaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PruebaRiesgosTelefonicaApplication.class, args);
+
+	}
+
+}
